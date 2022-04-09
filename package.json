@@ -20,7 +20,7 @@
   "homepage": "https://github.com/EQWorks/ws-product-nodejs#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pg": "^6.2.4",
     "redis": "^2.8.0"
   },
